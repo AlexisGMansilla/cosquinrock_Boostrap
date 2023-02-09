@@ -1,0 +1,198 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.size-home {
+    width: 100%;
+    height: auto;
+}
+
+.bg-red {
+    background-color: #FF1D1E;
+}
+
+.fw-bold {
+    font-family: 'Oswald', sans-serif;
+}
+
+.novedades-title {
+    margin-bottom: -2rem;
+    font-size: 7rem;
+    color: #fff;
+    font-weight: 600px;
+}
+
+.outline-title {
+    color: transparent;
+    -webkit-text-stroke-width: thin;
+    -webkit-text-stroke-color: #ffff;
+
+}
+
+.link-novedad-home {
+    text-decoration: none !important;
+    color: #000;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+.col-lg-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}
+/***********************/
+.mt-5 {
+    margin-top: 3rem !important;
+}
+.fw-bold {
+    font-family: 'Oswald';
+    font-weight: 600 !important;
+}
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+   
+    line-height: 1.2;
+    font-weight: 500;
+    line-height: 1.2rem;
+    margin-top: 0;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   font-weight: bold;
+}
+
+.fw-bold {
+    font-family: 'Oswald';
+    font-weight: 600 !important;
+}
+
+.h2{
+    margin: 0px 0px -32px;
+    font: 112px 'Oswald';
+}
+.size-home {
+    width: 100%;
+    height: auto;
+}
+.ms-10 {
+    margin-left: 10rem !important;
+}
+
+.row {
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+}
+.btn{
+    border: 2px solid white !important;
+}
+
+.redes-title{
+    color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fff;
+}
+
+.btn-mail{
+    height: 26px;
+    width: 65px;
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+
+    background-image: url(https://cosquinrock.net/wp-content/themes/cosquinrock/assets/flecha-btn-primary.png);
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.label-celda-mail{
+    display: inline-block;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000;
+    
+}
+
+
+
+.celda-mail{
+    vertical-align: middle;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    
+    width: 500px;
+    margin: 0.1rem;
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.bgazulosc{
+    background-color:#064CBA;
+}
+
+.bgviolt{
+   background-color:  #8A00FF;
+}
+
+
+.redes-title {
+    font-size: 7rem;
+    font-style: italic;
+
+  }
+
+.outline-title {
+    color: transparent;
+    -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: #fff;
+  }
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+.fw-bold {
+    font-family: 'Oswald';
+    font-weight: 600 !important;
+  }
+.btncarouselgreen {
+    background-color: rgb(92, 186, 60) !important;
+    border: none !important;
+}
